@@ -25,6 +25,7 @@
 ---
 **Ejemplos**  
 *Paso 1) Registrar paciente*
+
 Se comienza registrando un nuevo paciente que acaba de llegar al hospital.
 ````c  
   Opción seleccionada: 1) Registrar paciente
@@ -36,8 +37,8 @@ Se comienza registrando un nuevo paciente que acaba de llegar al hospital.
 El sistema registra al paciente y asi asignandole la prioridad mas baja que es 3.
 
 *Paso 2) Asignar prioridad nueva al paciente*
-Tras una evaluación inicial, el médico determina que el estado.
 
+Tras una evaluación inicial, el médico determina que el estado.
 ````c
 Opción seleccionada: 2) Asignar prioridad a paciente
 Ingrese el nombre del paciente: Kevin_Alvarez
@@ -52,12 +53,15 @@ Opción seleccionada: 3) Mostrar lista de espera
 La lista muestra al paciente respectivamente en orden de prioridad.
 
 *Paso 4) Atender al Siguiente Paciente*
-  El paciente es llamado basandose de su prioridad.
+
+El paciente es llamado basandose de su prioridad.
 ````c
 Opción seleccionada: 4) Atender al siguiente paciente
 ````
 El sistema muestra al paciente atendido y lo elimina.
+
 *Paso 5) Mostrar pacientes por prioridad *
+
 ````c
 Opción seleccionada: 5) Mostrar pacientes por prioridad
 ````
