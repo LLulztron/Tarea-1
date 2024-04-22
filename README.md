@@ -60,7 +60,7 @@ Opción seleccionada: 4) Atender al siguiente paciente
 ````
 El sistema muestra al paciente atendido y lo elimina.
 
-*Paso 5) Mostrar pacientes por prioridad *
+*Paso 5) Mostrar pacientes por prioridad*
 
 ````c
 Opción seleccionada: 5) Mostrar pacientes por prioridad
